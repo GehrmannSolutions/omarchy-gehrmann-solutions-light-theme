@@ -36,12 +36,14 @@ read as text on the paper (4.1:1 or more; the normal ones 5:1 or more).
 
 ## Extras (optional)
 
-The logo on the lock screen and the screensaver artwork work as described in the
+The logo on the lock screen, the animated boot screen (here in the light colours) and the
+screensaver artwork work as described in the
 [dark theme's README](https://github.com/GehrmannSolutions/omarchy-gehrmann-solutions-theme#extras-optional);
-both are in `extras/` here too:
+all three are in `extras/` here too:
 
 ```bash
 ~/.config/omarchy/themes/gehrmann-solutions-light/extras/gs-lock-logo install
+~/.config/omarchy/themes/gehrmann-solutions-light/extras/plymouth/install.sh
 ```
 
 ## Building
