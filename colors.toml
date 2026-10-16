@@ -1,0 +1,38 @@
+# Gehrmann Solutions Light. The light sections of gehrmann.solutions: near-white paper, navy text,
+# electric blue #2e3eff as accent and terminal blue (6.0:1 on the paper). Terminal colours are dark
+# enough for text on the paper (4.1:1 or more).
+mode = "light"
+
+accent = "#2e3eff"
+selection = "#c8d0ff"
+muted = "#7a8499"
+
+background = "#f5f6fa"
+dark_background = "#e9ebf3"
+darker_background = "#dde1ec"
+lighter_background = "#ffffff"
+
+foreground = "#192031"
+dark_foreground = "#4a5368"
+light_foreground = "#2a3654"
+bright_foreground = "#0c0f1c"
+
+red = "#c42b4a"
+yellow = "#8a6100"
+orange = "#a84e10"
+green = "#0d7a52"
+cyan = "#0a6d8a"
+blue = "#2e3eff"
+magenta = "#8b3fc0"
+brown = "#8a4a1c"
+
+bright_red = "#d63d5c"
+bright_yellow = "#9e7000"
+bright_green = "#11875c"
+bright_cyan = "#0b7c9d"
+bright_blue = "#4553ff"
+bright_magenta = "#9b4fd0"
+
+# Window borders: bold navy into brand blue; inactive ones in the selection blue.
+hyprland_active_border = "rgba(1c2d63ee) rgba(2e3effee) 45deg"
+hyprland_inactive_border = "rgba(c8d0ffaa)"
